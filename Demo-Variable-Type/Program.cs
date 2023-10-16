@@ -8,17 +8,17 @@
             Console.WriteLine("----------------");
             Console.WriteLine();
             int nb = Int32.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un entier est : {nb}");
+            Console.WriteLine($"La valeur maximale d'un entier est : {nb} ({nb.ToString().Length} chiffres)");
             nb = Int32.MinValue;
             Console.WriteLine($"La valeur minimale d'un entier est : {nb}");
 
             long nb_grand = Int64.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un long est : {nb_grand}");
+            Console.WriteLine($"La valeur maximale d'un long est : {nb_grand} ({nb_grand.ToString().Length} chiffres)");
             nb_grand = Int64.MinValue;
             Console.WriteLine($"La valeur minimale d'un long est : {nb_grand}");
 
             short nb_petit = Int16.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un short est : {nb_petit}");
+            Console.WriteLine($"La valeur maximale d'un short est : {nb_petit} ({nb_petit.ToString().Length} chiffres)");
             nb_petit = Int16.MinValue;
             Console.WriteLine($"La valeur minimale d'un short est : {nb_petit}");
 
@@ -28,17 +28,17 @@
             Console.WriteLine();
 
             uint unb = UInt32.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un entier non-signé est : {unb}");
+            Console.WriteLine($"La valeur maximale d'un entier non-signé est : {unb} ({unb.ToString().Length} chiffres)");
             unb = UInt32.MinValue;
             Console.WriteLine($"La valeur minimale d'un entier non-signé est : {unb}");
 
             ulong unb_grand = UInt64.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un long non-signé est : {unb_grand}");
+            Console.WriteLine($"La valeur maximale d'un long non-signé est : {unb_grand} ({unb_grand.ToString().Length} chiffres)");
             unb_grand = UInt64.MinValue;
             Console.WriteLine($"La valeur minimale d'un long non-signé est : {unb_grand}");
 
             ushort unb_petit = UInt16.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un short non-signé est : {unb_petit}");
+            Console.WriteLine($"La valeur maximale d'un short non-signé est : {unb_petit} ({unb_petit.ToString().Length} chiffres)");
             unb_petit = UInt16.MinValue;
             Console.WriteLine($"La valeur minimale d'un short non-signé est : {unb_petit}");
 
@@ -48,7 +48,7 @@
             Console.WriteLine();
 
             decimal deci = Decimal.MaxValue;
-            Console.WriteLine($"La valeur maximale d'un nombre entier déguisé en décimal est : {deci}");
+            Console.WriteLine($"La valeur maximale d'un nombre entier déguisé en décimal est : {deci} ({deci.ToString().Length} chiffres)");
             deci = Decimal.MinValue;
             Console.WriteLine($"La valeur minimale d'un nombre entier déguisé en decimal est : {deci}");
 
