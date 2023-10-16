@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-02-PairImpair", "Exo-02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-03-JeuxHasard", "Exo-03-JeuxHasard\Exo-03-JeuxHasard.csproj", "{B77F4607-BE53-42C4-99EA-111F5B4245D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Operateurs-Incrementation", "Demo-Operateurs-Incrementation\Demo-Operateurs-Incrementation.csproj", "{4E6B5277-C900-4B46-8FF9-4F01D0A09C09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Operateurs-Incrementation", "Demo-Operateurs-Incrementation\Demo-Operateurs-Incrementation.csproj", "{4E6B5277-C900-4B46-8FF9-4F01D0A09C09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Operateurs-Ternaire", "Demo-Operateurs-Ternaire\Demo-Operateurs-Ternaire.csproj", "{FEC07B71-59D0-4D2F-B34F-F29AC13258A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Operateurs-Ternaire", "Demo-Operateurs-Ternaire\Demo-Operateurs-Ternaire.csproj", "{FEC07B71-59D0-4D2F-B34F-F29AC13258A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Fonctions-Substring", "Demo-Fonctions-Substring\Demo-Fonctions-Substring.csproj", "{DFB4F18B-9127-4B18-9232-5CDD6343CBC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Fonctions-Substring", "Demo-Fonctions-Substring\Demo-Fonctions-Substring.csproj", "{DFB4F18B-9127-4B18-9232-5CDD6343CBC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-04-Divisions", "Exo-04-Divisions\Exo-04-Divisions.csproj", "{7CD5DAD3-180E-4B9F-B391-0EB7FEF28840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-04-Divisions", "Exo-04-Divisions\Exo-04-Divisions.csproj", "{7CD5DAD3-180E-4B9F-B391-0EB7FEF28840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-05-BBAN", "Exo-05-BBAN\Exo-05-BBAN.csproj", "{69628EDE-A040-48DA-BB1C-2929A6642967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{7CD5DAD3-180E-4B9F-B391-0EB7FEF28840}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD5DAD3-180E-4B9F-B391-0EB7FEF28840}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD5DAD3-180E-4B9F-B391-0EB7FEF28840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69628EDE-A040-48DA-BB1C-2929A6642967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69628EDE-A040-48DA-BB1C-2929A6642967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69628EDE-A040-48DA-BB1C-2929A6642967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69628EDE-A040-48DA-BB1C-2929A6642967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{FEC07B71-59D0-4D2F-B34F-F29AC13258A8} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
 		{DFB4F18B-9127-4B18-9232-5CDD6343CBC7} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
 		{7CD5DAD3-180E-4B9F-B391-0EB7FEF28840} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
+		{69628EDE-A040-48DA-BB1C-2929A6642967} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F6773A-33F8-40C6-917A-0F1D97811508}
