@@ -10,10 +10,17 @@
 
             char[] texte_array = texte.ToCharArray();
 
-            foreach (char c in texte_array)
+            int[] nbs = new int[texte_array.Length];
+            for (int i = 0; i < nbs.Length; i++)
             {
+                char c = texte_array[i];
                 //Console.WriteLine((int)c - 48);
-                Console.WriteLine(int.Parse(c.ToString()));
+                nbs[i] = int.Parse(c.ToString());
+            }
+
+            foreach (int nb in nbs)
+            {
+                Console.WriteLine(nb);
             }
         }
     }
