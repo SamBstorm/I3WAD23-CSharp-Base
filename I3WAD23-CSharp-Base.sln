@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Collections-Dictionnai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Fonctions-ToCharArray", "Demo-Fonctions-ToCharArray\Demo-Fonctions-ToCharArray.csproj", "{16C8299C-E2BD-48B1-AA41-FCB4651AADE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-12-CalculEcrit", "Exo-12-CalculEcrit\Exo-12-CalculEcrit.csproj", "{D3374358-E821-40D1-ACF2-620DF7937598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,10 @@ Global
 		{16C8299C-E2BD-48B1-AA41-FCB4651AADE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C8299C-E2BD-48B1-AA41-FCB4651AADE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C8299C-E2BD-48B1-AA41-FCB4651AADE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3374358-E821-40D1-ACF2-620DF7937598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3374358-E821-40D1-ACF2-620DF7937598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3374358-E821-40D1-ACF2-620DF7937598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3374358-E821-40D1-ACF2-620DF7937598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -172,6 +178,7 @@ Global
 		{3465CE58-20F9-4DCB-91AB-75986491C195} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
 		{D49F1FFC-2145-4B7A-AB5B-54771F570D0F} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
 		{16C8299C-E2BD-48B1-AA41-FCB4651AADE8} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
+		{D3374358-E821-40D1-ACF2-620DF7937598} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F6773A-33F8-40C6-917A-0F1D97811508}
