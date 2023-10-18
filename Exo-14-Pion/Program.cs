@@ -1,4 +1,6 @@
-﻿namespace Exo_14_Pion
+﻿using System.Text;
+
+namespace Exo_14_Pion
 {
     internal class Program
     {
@@ -6,6 +8,7 @@
         {
             /* Enoncé
              */
+            Console.OutputEncoding = Encoding.Unicode;
             /*1. Génération du Tableau*/
             const int TAILLE = 11;
             bool[] tableau = new bool[TAILLE];
@@ -18,9 +21,9 @@
             do
             {
                 /*3. Afficher le tableau + instructions*/
-                /* [     ·     ]*/
-                const char PION = '·';
-                const char VIDE = ' ';
+                /* [     😉     ]*/
+                const string PION = "😉";
+                const string VIDE = " ";
                 Console.Clear();
                 Console.Write("[");
                 foreach (bool cell in tableau)
@@ -44,7 +47,7 @@
                 /*4. Attendre le choix de l'utilisateur*/
                 do
                 {
-                    choix = Console.ReadLine().Trim().ToUpper();
+                    choix = Console.ReadKey().Key.ToString();
                 } while (choix != "G" && choix != "D" && choix != "Q");
 
                 /*5. a. Si choix "G":
