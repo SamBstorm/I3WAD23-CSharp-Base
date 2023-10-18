@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-13-TableauScores", "Exo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-14-Pion", "Exo-14-Pion\Exo-14-Pion.csproj", "{0AE48FE4-B3A5-4DF2-8C10-1939D863119A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-15-ListeCourse", "Exo-15-ListeCourse\Exo-15-ListeCourse.csproj", "{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +165,10 @@ Global
 		{0AE48FE4-B3A5-4DF2-8C10-1939D863119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE48FE4-B3A5-4DF2-8C10-1939D863119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE48FE4-B3A5-4DF2-8C10-1939D863119A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -193,6 +199,7 @@ Global
 		{D3374358-E821-40D1-ACF2-620DF7937598} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 		{14F50745-ABE2-42CD-BE1E-43482371CBF1} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 		{0AE48FE4-B3A5-4DF2-8C10-1939D863119A} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
+		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F6773A-33F8-40C6-917A-0F1D97811508}
