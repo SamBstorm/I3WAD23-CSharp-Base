@@ -35,29 +35,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Boucles-WhileDoWhile",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-07-BoucleDouble", "Exo-07-BoucleDouble\Exo-07-BoucleDouble.csproj", "{2D03361F-DC5D-4879-8B43-70E04F57CC70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-08-Multiplication", "Exo-08-Multiplication\Exo-08-Multiplication.csproj", "{7449E139-A305-420F-93B7-10C23705A22D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-08-Multiplication", "Exo-08-Multiplication\Exo-08-Multiplication.csproj", "{7449E139-A305-420F-93B7-10C23705A22D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-09-Fibonacci", "Exo-09-Fibonacci\Exo-09-Fibonacci.csproj", "{F95F050C-C66F-4A1D-B8C3-907FE393C5C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-09-Fibonacci", "Exo-09-Fibonacci\Exo-09-Fibonacci.csproj", "{F95F050C-C66F-4A1D-B8C3-907FE393C5C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-10-Factoriel", "Exo-10-Factoriel\Exo-10-Factoriel.csproj", "{149BD9A7-37AF-43BA-8A63-D51E524B6574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-10-Factoriel", "Exo-10-Factoriel\Exo-10-Factoriel.csproj", "{149BD9A7-37AF-43BA-8A63-D51E524B6574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-11-NombresPremiers", "Exo-11-NombresPremiers\Exo-11-NombresPremiers.csproj", "{9C777C35-B6DB-4D1F-8B10-B51770AC4915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-11-NombresPremiers", "Exo-11-NombresPremiers\Exo-11-NombresPremiers.csproj", "{9C777C35-B6DB-4D1F-8B10-B51770AC4915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Tableau-AvecForeach", "Demo-Tableau-AvecForeach\Demo-Tableau-AvecForeach.csproj", "{1C326C80-2032-4826-B72C-9035E6FE7CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Tableau-AvecForeach", "Demo-Tableau-AvecForeach\Demo-Tableau-AvecForeach.csproj", "{1C326C80-2032-4826-B72C-9035E6FE7CAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Tableau-MultiDim", "Demo-Tableau-MultiDim\Demo-Tableau-MultiDim.csproj", "{3465CE58-20F9-4DCB-91AB-75986491C195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Tableau-MultiDim", "Demo-Tableau-MultiDim\Demo-Tableau-MultiDim.csproj", "{3465CE58-20F9-4DCB-91AB-75986491C195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Collections-Dictionnaire", "Demo-Collections-Dictionnaire\Demo-Collections-Dictionnaire.csproj", "{D49F1FFC-2145-4B7A-AB5B-54771F570D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Collections-Dictionnaire", "Demo-Collections-Dictionnaire\Demo-Collections-Dictionnaire.csproj", "{D49F1FFC-2145-4B7A-AB5B-54771F570D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Fonctions-ToCharArray", "Demo-Fonctions-ToCharArray\Demo-Fonctions-ToCharArray.csproj", "{16C8299C-E2BD-48B1-AA41-FCB4651AADE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Fonctions-ToCharArray", "Demo-Fonctions-ToCharArray\Demo-Fonctions-ToCharArray.csproj", "{16C8299C-E2BD-48B1-AA41-FCB4651AADE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-12-CalculEcrit", "Exo-12-CalculEcrit\Exo-12-CalculEcrit.csproj", "{D3374358-E821-40D1-ACF2-620DF7937598}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-12-CalculEcrit", "Exo-12-CalculEcrit\Exo-12-CalculEcrit.csproj", "{D3374358-E821-40D1-ACF2-620DF7937598}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-13-TableauScores", "Exo-13-TableauScores\Exo-13-TableauScores.csproj", "{14F50745-ABE2-42CD-BE1E-43482371CBF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-13-TableauScores", "Exo-13-TableauScores\Exo-13-TableauScores.csproj", "{14F50745-ABE2-42CD-BE1E-43482371CBF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-14-Pion", "Exo-14-Pion\Exo-14-Pion.csproj", "{0AE48FE4-B3A5-4DF2-8C10-1939D863119A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-14-Pion", "Exo-14-Pion\Exo-14-Pion.csproj", "{0AE48FE4-B3A5-4DF2-8C10-1939D863119A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-15-ListeCourse", "Exo-15-ListeCourse\Exo-15-ListeCourse.csproj", "{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-15-ListeCourse", "Exo-15-ListeCourse\Exo-15-ListeCourse.csproj", "{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Struct-Heure", "Demo-Struct-Heure\Demo-Struct-Heure.csproj", "{E0303856-B35A-4FBA-8FE7-CC8EB3894FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-16-StructureAudio", "Exo-16-StructureAudio\Exo-16-StructureAudio.csproj", "{C2C08A26-07A1-4C89-A477-6843B97DA35E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -169,6 +173,14 @@ Global
 		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0303856-B35A-4FBA-8FE7-CC8EB3894FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0303856-B35A-4FBA-8FE7-CC8EB3894FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0303856-B35A-4FBA-8FE7-CC8EB3894FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0303856-B35A-4FBA-8FE7-CC8EB3894FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C08A26-07A1-4C89-A477-6843B97DA35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C08A26-07A1-4C89-A477-6843B97DA35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C08A26-07A1-4C89-A477-6843B97DA35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C08A26-07A1-4C89-A477-6843B97DA35E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -200,6 +212,8 @@ Global
 		{14F50745-ABE2-42CD-BE1E-43482371CBF1} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 		{0AE48FE4-B3A5-4DF2-8C10-1939D863119A} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 		{F2DB0479-A03F-4EAB-BFD2-E124A2E4B673} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
+		{E0303856-B35A-4FBA-8FE7-CC8EB3894FCC} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
+		{C2C08A26-07A1-4C89-A477-6843B97DA35E} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F6773A-33F8-40C6-917A-0F1D97811508}
