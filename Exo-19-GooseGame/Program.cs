@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            GooseGame game = new GooseGame();
+            game.lastSquare = 63;
+            game.Play();
         }
     }
 }
