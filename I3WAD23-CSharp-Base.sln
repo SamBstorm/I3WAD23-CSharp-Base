@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-20-Equation", "Exo20-Eq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Enumeration-FeuRouge", "Demo-Enumeration-FeuRouge\Demo-Enumeration-FeuRouge.csproj", "{58C330EB-1A79-4112-A082-89C99DA4F8D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-21-Cartes", "Exo-21-Cartes\Exo-21-Cartes.csproj", "{DE95DE0E-2A88-4450-B227-047C37E2926B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +231,10 @@ Global
 		{58C330EB-1A79-4112-A082-89C99DA4F8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C330EB-1A79-4112-A082-89C99DA4F8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C330EB-1A79-4112-A082-89C99DA4F8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE95DE0E-2A88-4450-B227-047C37E2926B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE95DE0E-2A88-4450-B227-047C37E2926B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE95DE0E-2A88-4450-B227-047C37E2926B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE95DE0E-2A88-4450-B227-047C37E2926B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -270,6 +276,7 @@ Global
 		{83A898ED-7D0C-4178-9DE9-005524B84163} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
 		{B13204F9-4000-4E12-BB33-29878A0A2F08} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 		{58C330EB-1A79-4112-A082-89C99DA4F8D3} = {E7E1E16A-47E7-400B-B5D9-D9CC4C439657}
+		{DE95DE0E-2A88-4450-B227-047C37E2926B} = {A2B04815-5156-4848-AF2E-63C481BB2E2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F6773A-33F8-40C6-917A-0F1D97811508}
